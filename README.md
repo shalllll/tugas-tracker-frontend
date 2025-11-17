@@ -11,8 +11,8 @@ Library tambahan:
 
     3. TailwindCSS → styling
 
-📁 Folder Structure
-src/
+📁 Folder Structure  
+src/  
 ├── assets/      -> Menyimpan file statis (gambar, ikon, style tambahan)  
 ├── components/  -> Komponen UI yang dapat digunakan kembali  
 ├── pages/       -> Halaman utama aplikasi (Home, Login, dsb)  
